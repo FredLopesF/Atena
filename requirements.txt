@@ -1,0 +1,8 @@
+beautifulsoup4>=4.12
+cloudscraper>=1.2
+customtkinter>=5.2
+lxml>=5.0
+pillow>=10.0
+psutil>=6.0
+requests>=2.32
+keyring>=25.0

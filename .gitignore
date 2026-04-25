@@ -1,0 +1,31 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# PyInstaller output (binaries — never commit)
+_internal/
+dist/
+build/
+*.exe
+*.spec
+
+# Runtime data (user-specific, not source)
+cache/
+downloads_db/
+logs/
+
+# Nuitka build files
+*.build/
+*.dist/
+*.onefile-build/
+*.bak
+*.bak2
+.claude/
+_backup_limpa/

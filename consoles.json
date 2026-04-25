@@ -1,0 +1,106 @@
+{
+  "NES": {
+    "type": "archive_org_zip",
+    "url": "https://archive.org/download/nointro-merged/no-intro-merged/Nintendo%20-%20Nintendo%20Entertainment%20System%20%28Parent-Clone%29%20%2820210830-072140%29%20%28iNES2.0%29.zip/"
+  },
+  "Super Nintendo": {
+    "type": "archive_org_zip",
+    "url": "https://archive.org/download/nointro-merged/no-intro-merged/Nintendo%20-%20Super%20Nintendo%20Entertainment%20System%20%28Parent-Clone%29%20%2820210925-225212%29.zip/"
+  },
+  "Game Boy": {
+    "type": "archive_org_zip",
+    "url": "https://archive.org/download/nointro-merged/no-intro-merged/Nintendo%20-%20Game%20Boy%20%28Parent-Clone%29%20%2820210925-053751%29.zip/"
+  },
+  "Game Boy Color": {
+    "type": "archive_org_zip",
+    "url": "https://archive.org/download/nointro-merged/no-intro-merged/Nintendo%20-%20Game%20Boy%20Color%20%28Parent-Clone%29%20%2820210925-054142%29%20%28MIA%201%29.zip/"
+  },
+  "Game Boy Advance": {
+    "type": "archive_org_zip",
+    "url": "https://archive.org/download/nointro-merged/no-intro-merged/Nintendo%20-%20Game%20Boy%20Advance%20%28Parent-Clone%29%20%2820210925-090749%29.zip/"
+  },
+  "Nintendo DS": {
+    "type": "archive_org",
+    "identifier": "2024-nintendo-ds-hearto-1g1r-collection"
+  },
+  "Nintendo 64": {
+    "type": "archive_org_zip",
+    "url": "https://archive.org/download/nointro-merged/no-intro-merged/Nintendo%20-%20Nintendo%2064%20%28BigEndian%29%20%28Parent-Clone%29%20%2820210924-131351%29.zip/"
+  },
+  "Nintendo GameCube": {
+    "type": "archive_org",
+    "identifier": "game-cube_202603"
+  },
+  "Nintendo Wii": {
+    "type": "archive_org",
+    "identifier": "wii-ntsc-u-redump-2"
+  },
+  "Nintendo Wii U": {
+    "type": "archive_org",
+    "identifier": "nointro_wiiu_cdn_nov_2020"
+  },
+  "Master System": {
+    "type": "archive_org_zip",
+    "url": "https://archive.org/download/nointro-merged/no-intro-merged/Sega%20-%20Master%20System%20-%20Mark%20III%20%28Parent-Clone%29%20%2820210830-031058%29.zip/"
+  },
+  "Mega Drive / Genesis": {
+    "type": "archive_org_zip",
+    "url": "https://archive.org/download/nointro-merged/no-intro-merged/Sega%20-%20Mega%20Drive%20-%20Genesis%20%28Parent-Clone%29%20%2820210924-215444%29.zip/"
+  },
+  "Game Gear": {
+    "type": "archive_org_zip",
+    "url": "https://archive.org/download/nointro-merged/no-intro-merged/Sega%20-%20Game%20Gear%20%28Parent-Clone%29%20%2820210825-134038%29.zip/"
+  },
+  "Sega 32X": {
+    "type": "archive_org_zip",
+    "url": "https://archive.org/download/nointro-merged/no-intro-merged/Sega%20-%2032X%20%28Parent-Clone%29%20%2820210904-212532%29.zip/"
+  },
+  "Sega Saturn": {
+    "type": "archive_org",
+    "identifier": "sega-saturn-redump"
+  },
+  "Sega Dreamcast": {
+    "type": "archive_org",
+    "identifier": "sega-dreamcast-redump"
+  },
+  "PlayStation 1": {
+    "type": "archive_org",
+    "identifier": "playstation_202603"
+  },
+  "PlayStation 2": {
+    "type": "archive_org",
+    "identifier": "redump_ps2"
+  },
+  "PlayStation Portable (PSP)": {
+    "type": "archive_org",
+    "identifier": "non-redump_sony_playstation_portable"
+  },
+  "Xbox": {
+    "type": "archive_org",
+    "identifier": "xbox-xiso-from-redump"
+  },
+  "Xbox 360": {
+    "type": "archive_org",
+    "identifier": "NINRMX360M"
+  },
+  "PC Engine / TurboGrafx-16": {
+    "type": "archive_org_zip",
+    "url": "https://archive.org/download/nointro-merged/no-intro-merged/NEC%20-%20PC%20Engine%20-%20TurboGrafx%2016%20%28Parent-Clone%29%20%2820210607-040618%29.zip/"
+  },
+  "Atari 2600": {
+    "type": "archive_org_zip",
+    "url": "https://archive.org/download/nointro-merged/no-intro-merged/Atari%20-%202600%20%28Parent-Clone%29%20%2820210927-163647%29.zip/"
+  },
+  "Atari 7800": {
+    "type": "archive_org_zip",
+    "url": "https://archive.org/download/nointro-merged/no-intro-merged/Atari%20-%207800%20%28Parent-Clone%29%20%2820210920-065554%29.zip/"
+  },
+  "Atari Lynx": {
+    "type": "archive_org_zip",
+    "url": "https://archive.org/download/nointro-merged/no-intro-merged/Atari%20-%20Lynx%20%28Parent-Clone%29%20%2820210623-022249%29.zip/"
+  },
+  "Atari Jaguar": {
+    "type": "archive_org_zip",
+    "url": "https://archive.org/download/nointro-merged/no-intro-merged/Atari%20-%20Jaguar%20%28J64%29%20%28Parent-Clone%29%20%2820210715-041408%29.zip/"
+  }
+}
