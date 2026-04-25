@@ -1,0 +1,11 @@
+{
+  "language": "por",
+  "master_region": "All Regions",
+  "apply_1g1r": false,
+  "preferred_region": "USA",
+  "try_to_clean": false,
+  "remove_alt_regions": false,
+  "max_download_workers": "2",
+  "last_download_path": "C:\\Users\\frede\\Documents",
+  "config_version": "1.7"
+}
